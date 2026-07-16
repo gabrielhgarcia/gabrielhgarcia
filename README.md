@@ -12,7 +12,7 @@ Analista de Dados com +5 anos de experiência em Tecnologia da Informação, com
 
 ## 🎓 Formação
 
-- Engenharia de Software — PUC Campinas (em andamento)
+- Engenharia de Software — PUC Campinas 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas
 - Pós-graduação em RPA (em andamento)
 
