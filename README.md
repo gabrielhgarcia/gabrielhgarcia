@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel 👋
+# Oi, eu sou o Gabriel 👋
 
 Analista de Dados com +5 anos de experiência em Tecnologia da Informação, com foco em **Data & Analytics**, automação de processos e desenvolvimento de soluções orientadas a dados.
 
