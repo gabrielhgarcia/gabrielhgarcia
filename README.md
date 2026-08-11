@@ -25,7 +25,7 @@ Passagens por **CPFL Energia**, **InterCement Brasil** e atualmente na **U-Tech 
 - 🔗 **[Portfólio de Data Analytics](https://github.com/gabrielhgarcia/portfolio-data-analytics)** — pipelines ETL, análise de canal comercial e automações com dados sintéticos
 - 🔗 **[Automação Tarifária CPFL](https://github.com/gabrielhgarcia/CASE_DBA_CPFL)** — automação de extração para reajuste de tarifa
 - 🔗 **[Extração Oracle/SQL Server](https://github.com/gabrielhgarcia/EXTRACAO_EXPORTACAO)** — extração de dados multi-fonte para análise
-
+-**[Automação e tomada de decisão via dados  de empresa de porte medio de Alimentos](https://github.com/gabrielhgarcia/Case-DconData-Distribuidora-de-Alimentos-Funcionais-e-Suplementos)** -Automação de processos, desenvolvimento de dashboards e geração de insights para apoiar a tomada de decisões estratégicas.
 ## 📫 Contato
 
 - LinkedIn: _https://www.linkedin.com/in/gabriel-garcia-6a1330168_
